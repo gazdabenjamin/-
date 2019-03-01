@@ -1,0 +1,87 @@
+*{
+	background-color: wait;
+}
+
+#par1 {
+	background-color: yellow;
+}
+
+#par2 {
+	background-color: white;
+}
+
+#phon {
+	background-color: SeaGreen;
+}
+
+#phon1 {
+	background-color: DimGray;
+}
+
+#borderimg { 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+}
+
+h1{
+    color: MediumBlue;
+	font-weight: bolt;
+    text-align: center;	
+	font-family: aharoni; font-size: 30px;
+	
+	
+}
+
+h2{
+    color: black;
+	font-weight: bolt;
+    text-align: center;	
+	font-family: Bodoni MT Black; font-size: 30px;
+}
+
+p{
+    color: black;
+	font-weight: bolt;
+    text-align: center;	
+}
+
+p {
+	font-family: Arial Black; font-size: 17px;
+}
+
+.photo {
+	color: black;
+	font-family: Bodoni MT Black; font-size: 20px;
+}
+
+.rrr {
+	text-align: center;
+	
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li1 {
+  float: left;
+}
+
+li1 a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li1 a:hover {
+  background-color: #111;
+}
+
+
